@@ -1,0 +1,11 @@
+{
+  "name"         : "jsonify",
+  "version"      : "0.0.1",
+  "description"  : "Jsonify every website",
+  "main"         : "index.js",
+  "author"       : "Patrick Holl",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}

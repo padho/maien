@@ -6,7 +6,7 @@ A simple module to turn the meta information of a website to a JavaScript object
 ['name', 'http-equiv', 'rel', 'property', 'itemprop']
 ```
 
-Here is a nice list of what you can expect as meta information in a web site: https://github.com/joshbuchea/HEAD
+Here is a nice list of what you can expect as meta information in a website: https://github.com/joshbuchea/HEAD
 
 #### Example
 ``` js

@@ -1,6 +1,6 @@
 # maien
 
-A simple module to turn the meta information of a website to a JavaScript object. The properties of the resulting object refer directly to the values of the following attributes:
+A simple module to turn the meta information of a website into a JavaScript object. The properties of the resulting object refer directly to the values of the following attributes:
 
 ``` js
 ['name', 'http-equiv', 'rel', 'property', 'itemprop']
